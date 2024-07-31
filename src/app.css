@@ -1,0 +1,21 @@
+body {
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #F4F4F4;
+}
+h1 {
+  font-size: 24px;
+  color: #484848;
+  font-weight: 500;
+}
+h2 {
+  color: #323232;
+  font-size: 18px;
+  margin: 0;
+}
+p {
+  color: #696969;
+  letter-spacing: 0.7px;
+  margin: 0;
+}
